@@ -36,36 +36,36 @@
 		<h1 class="" style="border-bottom: 1px #000 solid; color: #000; padding-bottom: 2%; margin-bottom: 3%;">Servicios</h1>
 
 	<div class="section">
-      <div class="container">
+      <div class="container new-center">
 
         <div class="row">
-          <div class="col-xs-12 col-sm-5 col-md-2">
+          <div class="col-xs-12 col-sm-7 col-md-7 col-lg-2">
             <img src="../img/refacciones2.jpg" class="img-responsive img-rounded adapted">
           </div>
-          <div class="col-xs-12 col-sm-5 col-md-4 top">
+          <div class="col-xs-12 col-sm-5 col-md-5 col-lg-4 top">
             <h3 class="text-left texto-center">Partes y refacciones de automoviles</h3>
             <p class="text-left text-justify">Contamos con las mejores refacciones para ofrecerte un servicio y trabajo de calidad. Nos adaptamos a tus necesidades.</p>
           </div>
-          <div class="col-xs-12 col-sm-5 col-md-2">
+          <div class="col-xs-12 col-sm-7 col-md-7 col-lg-2">
             <img src="../img/telas2.jpg" class="img-responsive img-rounded adapted">
           </div>
-          <div class="col-xs-12 col-sm-5 col-md-4">
+          <div class="col-xs-12 col-sm-5 col-md-5 col-lg-4">
             <h3 class="text-left texto-center">Telas </h3>
             <p class="text-left text-justify">Contamos con las mejores telas para vestir, <br> decorar su vida y su casa a su gusto para <br> eventos especiales.</p>
           </div>
         </div>
         <div class="row" style="margin-top: 2%;">
-          <div class="col-xs-12  col-sm-5 col-md-2">
+          <div class="col-xs-12  col-sm-7 col-md-7 col-lg-2">
             <img src="../img/bisuteria2.jpg" class="img-responsive img-rounded adapted">
           </div>
-          <div class="col-xs-12  col-sm-5 col-md-4 top">
+          <div class="col-xs-12  col-sm-5 col-md-5 col-lg-4 top">
             <h3 class="text-left texto-center">Bisutería y accesorios de vestir</h3>
             <p class="text-left text-justify">Contamos con gran variedad en piedras y bisuteria para su gusto.</p>
           </div>
-          <div class="col-xs-12  col-sm-5 col-md-2">
+          <div class="col-xs-12  col-sm-7 col-md-7 col-lg-2">
             <img src="../img/compu2.jpg" class="img-responsive img-rounded adapted">
           </div>
-          <div class="col-xs-12  col-sm-5 col-md-4 text-center">
+          <div class="col-xs-12  col-sm-5 col-md-5 col-lg-4 text-center">
             <h3 class="text-left texto-center">Equipo y accesorios de <br> cómputo</h3>
             <p class="text-left text-justify">Contamos con los mejores componentes en <br> computación para ofrecerte un servicio <br> y trabajo de calidad. Nos adaptamos a tus<br>  necesidades para facilitarte tus procesos.</p>
           </div>
