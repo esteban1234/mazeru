@@ -63,7 +63,7 @@
 
 <div class="conten">
     <h1 class="text-center" style="padding-top: 2%;">Nuestros servicios</h1>
-    <h3 class="text-center" style="padding-top: 0%;">Comercio al por menor y por mayor</h3>
+    <h3 class="text-center oculto" style="padding-top: 0%;">Comercio al por menor y por mayor</h3>
     <div class="contenalgunosserv">
         <div class="servuno">
         <figure class="servunoheader">
@@ -71,7 +71,7 @@
         </figure>
         <p class="tit">Partes y refacciones de automoviles</p>
             <!-- <div class="servunoheader">
-                
+
             </div> -->
         </div>
 
@@ -81,7 +81,7 @@
         </figure>
         <p class="tit">Equipo y accesorios de cómputo</p>
             <!-- <div class="servunoheader">
-                
+
             </div> -->
         </div>
 
@@ -91,7 +91,7 @@
         </figure>
         <p class="tit">Bisutería y accesorios de vestir</p>
             <!-- <div class="servunoheader">
-                
+
             </div> -->
         </div>
     </div>
@@ -100,7 +100,7 @@
 </div>
 
 <div class="marcas">
-    <h2 class="text-center" style="padding-top: 5%; color: #D84B4E;">Algunas refacciones de automoviles</h2>
+    <h2 class="text-center new-tamano" style="padding-top: 5%; color: #D84B4E;">Algunas refacciones de automoviles</h2>
 
     <div class="contenmarcas">
         <div class="marcauno">
@@ -130,12 +130,12 @@
             </figure>
             <h2>Retrovisores</h2>
         </div>
-    </div> 
+    </div>
 </div>
 
 
 <div class="marcas">
-    <h2 class="text-center" style="padding-top: 5%; color: #D84B4E;">Algunas refacciones de computo</h2>
+    <h2 class="text-center new-tamano" style="padding-top: 5%; color: #D84B4E;">Algunas refacciones de computo</h2>
 
     <div class="contenmarcas">
         <div class="marcauno">
@@ -165,7 +165,7 @@
             </figure>
             <h2>Tarjetas de video</h2>
         </div>
-    </div> 
+    </div>
 </div>
 
 <p class="boton" style="text-align: center;"><a class="btn btn-warning btn-lg" href="vistas/contacto.php">Contáctanos</a></p>

@@ -19,9 +19,8 @@
 <div class="section hola">
       <div class="container">
         <div class="row">
-          <div class="col-md-4 camion">
-            <img src="../img/camion.jpg"
-            class="img-responsive img-rounded">
+          <div class="col-xs-12 col-sm-12 col-md-4 camion">
+            <img src="../img/camion.jpg" class="img-responsive img-rounded">
           </div>
           <div class="col-md-6 hola2">
             <h1>Distribución</h1>
@@ -38,41 +37,37 @@
 
 	<div class="section">
       <div class="container">
-      
+
         <div class="row">
-          <div class="col-md-2">
-            <img src="../img/refacciones2.jpg"
-            class="img-responsive img-rounded">
+          <div class="col-xs-12 col-sm-5 col-md-2">
+            <img src="../img/refacciones2.jpg" class="img-responsive img-rounded adapted">
           </div>
-          <div class="col-md-4">
-            <h3 class="text-left">Partes y refacciones de automoviles</h3>
-            <p class="text-left">Contamos con las mejores refacciones para ofrecerte un servicio y trabajo de calidad. Nos adaptamos a tus necesidades.</p>
+          <div class="col-xs-12 col-sm-5 col-md-4 top">
+            <h3 class="text-left texto-center">Partes y refacciones de automoviles</h3>
+            <p class="text-left text-justify">Contamos con las mejores refacciones para ofrecerte un servicio y trabajo de calidad. Nos adaptamos a tus necesidades.</p>
           </div>
-          <div class="col-md-2">
-            <img src="../img/telas2.jpg"
-            class="img-responsive img-rounded">
+          <div class="col-xs-12 col-sm-5 col-md-2">
+            <img src="../img/telas2.jpg" class="img-responsive img-rounded adapted">
           </div>
-          <div class="col-md-4">
-            <h3 class="text-left">Telas </h3>
-            <p class="text-left">Contamos con las mejores telas para vestir, <br> decorar su vida y su casa a su gusto para <br> eventos especiales.</p>
+          <div class="col-xs-12 col-sm-5 col-md-4">
+            <h3 class="text-left texto-center">Telas </h3>
+            <p class="text-left text-justify">Contamos con las mejores telas para vestir, <br> decorar su vida y su casa a su gusto para <br> eventos especiales.</p>
           </div>
         </div>
         <div class="row" style="margin-top: 2%;">
-          <div class="col-md-2">
-            <img src="../img/bisuteria2.jpg"
-            class="img-responsive img-rounded">
+          <div class="col-xs-12  col-sm-5 col-md-2">
+            <img src="../img/bisuteria2.jpg" class="img-responsive img-rounded adapted">
           </div>
-          <div class="col-md-4">
-            <h3 class="text-left">Bisutería y accesorios de vestir</h3>
-            <p class="text-left">Contamos con gran variedad en piedras y bisuteria para su gusto.</p>
+          <div class="col-xs-12  col-sm-5 col-md-4 top">
+            <h3 class="text-left texto-center">Bisutería y accesorios de vestir</h3>
+            <p class="text-left text-justify">Contamos con gran variedad en piedras y bisuteria para su gusto.</p>
           </div>
-          <div class="col-md-2">
-            <img src="../img/compu2.jpg"
-            class="img-responsive img-rounded">
+          <div class="col-xs-12  col-sm-5 col-md-2">
+            <img src="../img/compu2.jpg" class="img-responsive img-rounded adapted">
           </div>
-          <div class="col-md-4 text-center">
-            <h3 class="text-left">Equipo y accesorios de <br> cómputo</h3>
-            <p class="text-left">Contamos con los mejores componentes en <br> computación para ofrecerte un servicio <br> y trabajo de calidad. Nos adaptamos a tus<br>  necesidades para facilitarte tus procesos.</p>
+          <div class="col-xs-12  col-sm-5 col-md-4 text-center">
+            <h3 class="text-left texto-center">Equipo y accesorios de <br> cómputo</h3>
+            <p class="text-left text-justify">Contamos con los mejores componentes en <br> computación para ofrecerte un servicio <br> y trabajo de calidad. Nos adaptamos a tus<br>  necesidades para facilitarte tus procesos.</p>
           </div>
         </div>
       </div>
@@ -80,11 +75,10 @@
 	</div>
 	<p class="boton" style="text-align: center;"><a class="btn btn-warning btn-lg" href="contacto.php">Contáctanos</a></p>
 
-<span class="ir-arriba"><i class="fa fa-chevron-up" aria-hidden="true"></i></span>	
+<span class="ir-arriba"><i class="fa fa-chevron-up" aria-hidden="true"></i></span>
 <?php include 'pie.php' ?>
 <script src="../js/jquery.js"></script>
 <script src="../js/bootstrap.js"></script>
 <script src="../js/botonarriba.js"></script>
 </body>
 </html>
-

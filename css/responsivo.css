@@ -1,0 +1,478 @@
+@media screen and (max-width: 480px){
+  /**********DISEÑO INDEX************************/
+  .menu{
+    margin: 0px;
+    width: 100%;
+    /*display: none;*/
+  }
+
+  .menu ul{
+    margin: 0px;
+    width: 100%;
+  }
+
+  .menu ul a{
+    width: 100%;
+    display: inline-block;
+    text-align: center;
+    margin: 0px;
+  }
+
+  .logo{
+    margin: 0px auto;
+    float: none !important;
+  }
+
+  .logo img{
+    width: 50%;
+    margin: auto;
+  }
+
+  .item{
+    height: 150px;
+  }
+
+  .carousel-indicators{
+    display: none;
+
+  }
+
+  h1{
+    font-size: 30px;
+    text-align: center;
+  }
+
+  .oculto{
+    display: none;
+  }
+
+  .contenalgunosserv{
+    height: 100%;
+  }
+
+  .servuno{
+    width: 90%;
+    margin: 2% auto;
+    padding: 5% 0px;
+    float: none;
+  }
+
+  .servuno:hover{
+   -moz-box-shadow: none;
+   -webkit-box-shadow: none;
+   box-shadow: none;
+   -moz-transition: none;
+   -webkit-transition: none;
+   -o-transition: none;
+   transition: none;
+  }
+
+  .servunoheader{
+    width: 30%;
+    margin: auto;
+  }
+
+  .servunoheader img{
+    width: 100%;
+  }
+
+  .tit{
+    font-size: 18px;
+  }
+
+  .new-tamano{
+    font-size: 22px;
+    margin-bottom: 10%;
+  }
+
+  .marcauno{
+    width: 95%;
+    margin: 2% auto;
+    float: none;
+    border: .5px solid rgba(0,0,0,0.2);
+  }
+
+  /**********END DISEÑO INDEX*******************/
+
+  /**********DISEÑO NOSOTROS************************/
+  .contieneq{
+    width: 90%;
+  }
+
+  .pull-left, .pull-right{
+    float: none !important;
+    width: 100%;
+  }
+
+  .valoruno{
+    border: .5px solid rgba(255,255,255,0.3);
+    width: 100%;
+    margin: 2% 0px;
+  }
+  /**********END DISEÑO NOSOTROS*******************/
+
+
+  /**********DISEÑO SERVICIOS************************/
+
+  .camion{
+    margin: auto;
+  }
+
+  .img-responsive{
+    margin: auto;
+    width: 100%;
+    height: 200px;
+  }
+
+  .texto-center{
+    text-align: center;
+    font-size: 20px;
+    padding: 10px 0px;
+    font-weight: bold;
+  }
+
+  .text-justify{
+    text-align: justify;
+  }
+
+  .text-justify > br{
+    display:none;
+  }
+  /**********END DISEÑO SERVICIOS*******************/
+
+  /**********DISEÑO CONTACTO************************/
+
+  .contacto-information p{
+    text-align: center;
+    border: .5px solid rgba(255, 255, 255, 0.5);
+    margin: 2% auto;
+    padding: 2% 0px;
+  }
+  /**********END DISEÑO CONTACTO*******************/
+
+
+  /**********DISEÑO FOOTER************************/
+  footer{
+    height: 100%;
+  }
+
+  footer p{
+    width: 100%;
+    font-size: 18px;
+    padding: 5% 5px;
+  }
+  /**********END DISEÑO FOOTER*******************/
+}
+
+@media screen and (max-width: 599px) and (min-width: 481px) {
+  /**********DISEÑO INDEX************************/
+  .menu{
+    margin: 0px;
+    width: 100%;
+  }
+
+  .menu ul{
+    margin: 0px;
+    width: 100%;
+  }
+
+  .menu ul a{
+    width: 100%;
+    display: inline-block;
+    text-align: center;
+    margin: 0px;
+  }
+
+  .logo{
+    margin: 0px auto;
+    float: none !important;
+  }
+
+  .logo img{
+    width: 50%;
+    margin: auto;
+  }
+
+  .carousel-indicators{
+    display: none;
+
+  }
+
+  h1{
+    font-size: 30px;
+    text-align: center;
+  }
+
+  .oculto{
+    display: none;
+  }
+
+  .contenalgunosserv{
+    height: 100%;
+  }
+
+  .servuno{
+    width: 90%;
+    margin: 2% auto;
+    padding: 5% 0px;
+    float: none;
+  }
+
+  .servuno:hover{
+   -moz-box-shadow: none;
+   -webkit-box-shadow: none;
+   box-shadow: none;
+   -moz-transition: none;
+   -webkit-transition: none;
+   -o-transition: none;
+   transition: none;
+  }
+
+  .servunoheader{
+    width: 30%;
+    margin: auto;
+  }
+
+  .servunoheader img{
+    width: 100%;
+  }
+
+  .tit{
+    font-size: 18px;
+  }
+
+  .new-tamano{
+    font-size: 22px;
+    margin-bottom: 10%;
+  }
+
+  .marcauno{
+    width: 95%;
+    margin: 2% auto;
+    float: none;
+    border: .5px solid rgba(0,0,0,0.2);
+  }
+
+  /**********END DISEÑO INDEX*******************/
+
+  /**********DISEÑO NOSOTROS************************/
+  .contieneq{
+    width: 90%;
+  }
+
+  .pull-left, .pull-right{
+    float: none !important;
+    width: 100%;
+  }
+
+  .valoruno{
+    border: .5px solid rgba(255,255,255,0.3);
+    width: 100%;
+    margin: 2% 0px;
+  }
+  /**********END DISEÑO NOSOTROS*******************/
+
+
+  /**********DISEÑO SERVICIOS************************/
+
+  .camion{
+    margin: auto;
+  }
+
+  .img-responsive{
+    margin: auto;
+    width: 100%;
+    height: 200px;
+  }
+
+  .texto-center{
+    text-align: center;
+    font-size: 20px;
+    padding: 10px 0px;
+    font-weight: bold;
+  }
+
+  .text-justify{
+    text-align: justify;
+  }
+
+  .text-justify > br{
+    display:none;
+  }
+  /**********END DISEÑO SERVICIOS*******************/
+
+  /**********DISEÑO CONTACTO************************/
+
+  .contacto-information p{
+    text-align: center;
+    border: .5px solid rgba(255, 255, 255, 0.5);
+    margin: 2% auto;
+    padding: 2% 0px;
+  }
+  /**********END DISEÑO CONTACTO*******************/
+
+
+  /**********DISEÑO FOOTER************************/
+  footer{
+    height: 100%;
+  }
+
+  footer p{
+    width: 100%;
+    font-size: 18px;
+    padding: 5% 5px;
+  }
+  /**********END DISEÑO FOOTER*******************/
+}
+
+@media screen and (max-width: 799px) and (min-width: 600px) {
+
+  .menu{
+    margin: 2% auto;
+    text-align: center;
+  }
+
+  .logo{
+    margin: 5% auto;
+    float: none !important;
+  }
+
+  .logo img{
+    width: 150px;
+    margin: auto;
+  }
+
+  .contenalgunosserv{
+    text-align: center;
+  }
+
+  .servuno{
+    vertical-align: top;
+    width: 32%;
+    margin: 0px 2px;
+    float: none;
+    display: inline-block;
+  }
+
+  .tit{
+    font-size: 18px;
+    font-weight: bold;
+  }
+
+  .marcauno h2{
+    font-size: 20px;
+    font-weight: bold;
+  }
+
+  /**********DISEÑO NOSOTROS************************/
+  .contieneq{
+    width: 90%;
+  }
+
+  .pull-left, .pull-right{
+    float: none !important;
+    width: 100%;
+  }
+
+  .valoruno{
+    border: .5px solid rgba(255,255,255,0.3);
+    width: 46%;
+    margin: 2%;
+  }
+  /**********END DISEÑO NOSOTROS*******************/
+
+  /**********DISEÑO SERVICIOS************************/
+
+  .camion, .camion img{
+    margin: auto;
+  }
+
+  .hola2 h1{
+    text-align: center;
+    margin-top: 5%;
+  }
+
+  .texto-center{
+    text-align: center;
+    font-size: 20px;
+    padding: 10px 0px;
+    font-weight: bold;
+  }
+
+  .text-justify{
+    text-align: justify;
+  }
+
+  .text-justify > br{
+    display:none;
+  }
+
+  .adapted{
+    margin: auto;
+    width: 100%;
+    height: 280px;
+  }
+
+  .top{
+    margin-bottom: 20%;
+  }
+  /**********END DISEÑO SERVICIOS*******************/
+
+  /**********DISEÑO CONTACTO************************/
+
+  .contacto-information p{
+    text-align: center;
+    border: .5px solid rgba(255, 255, 255, 0.5);
+    margin: 2% auto;
+    padding: 2% 0px;
+  }
+  /**********END DISEÑO CONTACTO*******************/
+}
+
+@media screen and (max-width: 1023px) and (min-width: 800px) {
+
+  .menu{
+    margin: 5% 0px;
+    text-align: center;
+  }
+
+  /**********DISEÑO SERVICIOS************************/
+
+  .adapted{
+    margin: auto;
+    width: 100%;
+    height: 280px;
+  }
+
+  .top{
+    margin-bottom: 20%;
+  }
+  /**********END DISEÑO SERVICIOS*******************/
+
+
+  /**********DISEÑO CONTACTO************************/
+
+  .contacto-information p{
+    text-align: center;
+    border: .5px solid rgba(255, 255, 255, 0.5);
+    margin: 2% auto;
+    padding: 2% 0px;
+  }
+  /**********END DISEÑO CONTACTO*******************/
+}
+
+@media screen and (max-width: 1280px) and (min-width: 1024px) {      /* mac*/
+
+  /**********DISEÑO CONTACTO************************/
+
+  .contacto-information p{
+    text-align: center;
+    border: .5px solid rgba(255, 255, 255, 0.5);
+    margin: 2% auto;
+    padding: 2% 0px;
+  }
+  /**********END DISEÑO CONTACTO*******************/
+}
+@media screen and (max-width: 1366px) and (min-width: 1024px) { }
+
+@media screen and (min-width: 1367px) { }
